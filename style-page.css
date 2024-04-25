@@ -1,0 +1,123 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+	font-family: "Montserrat", sans-serif;
+	background-color: #FFF9E6;
+	
+}
+.row footer {
+	background-color: #74A9A2;
+}
+.row footer {
+	background-color: #FFEFBE;
+	padding-top: 0px;
+	margin-top: 59px;
+}
+body p {
+}
+.navbar.navbar-default .row {
+	background-color: #FFEFBE;
+}
+
+
+.row .col-lg-4 {
+	padding-top: 100px;
+	margin-top: 17px;
+	padding-bottom: 61px;
+	padding-right: 67px;
+}
+.navbar.navbar-default .container-fluid {
+	background-color: #FFEFBE;
+}
+.container-fluid #defaultNavbar1 .nav.navbar-nav {
+	background-color: #FFDB63;
+}
+
+.container-fluid #defaultNavbar1 .nav.navbar-nav {
+	background-color: #FFEFBE;
+}
+.nav-link:hover {
+	background-color: #FFDB63;
+}
+
+
+.nav.navbar-nav .active a {
+	background-color: #FFEFBE;
+	margin-bottom: 7px;
+	margin-top: 30px;
+}
+.h5 {
+}
+
+.btn-style   {
+	background-color: #5A4500;
+	color: #FFFFFF;
+}
+.btn:hover {
+	color: #FFDB63;
+	background-color: #897D56;
+}
+
+
+
+.card.col-md-4.col-lg-12 .card-body .card-title.lilita-one-regular {
+}
+
+
+
+.nav.navbar-nav .active adopcion {
+	background-color: #FFEFBE;
+}
+
+
+
+
+.row .col-lg-4 .card.col-md-4.col-lg-12 {
+	background-color: #FFE79A;
+}
+.col-lg-4 .card.col-md-4.col-lg-12 .card-ing-top {
+	margin: 15;
+	padding-top: 16px;
+	text-align: center;
+}
+
+
+
+.pie_pag {
+	background-color: #572E2E;
+}
+.lilita-one-regular {
+	color: #5A4500;
+	font-family: "Lilita One", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+.lil {
+}
+
+.h5 
+	.lilita-one-regular {
+	color: #5A4500;
+	font-family: "Lilita One", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+.container-fluid .container .row {
+	margin-top: 24px;
+}
+.thumbnail .caption h3 {
+
+}
+.row .col-md-12 .thumbnail {
+	background-color: #FFEFBE;
+}
+
+
+
+.navbar.navbar-default .row {
+	background-color: #FFF9E6;
+}
+.navbar.navbar-default .container-fluid {
+	padding-bottom: 47px;
+}
